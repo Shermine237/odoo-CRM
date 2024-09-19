@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="-LdqS_89pc9tKXhwtrNH">
-    <mxGraphModel dx="1226" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-1" value="Draft" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="99" width="120" height="60" as="geometry" />
+          <mxGeometry x="91" y="73" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-3" target="xKRhnp7fP2KBttcFIjON-4">
           <mxGeometry relative="1" as="geometry" />
@@ -32,10 +32,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-3" value="Devis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="99" width="120" height="60" as="geometry" />
+          <mxGeometry x="331" y="73" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-4" value="Proforma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="99" width="120" height="60" as="geometry" />
+          <mxGeometry x="581" y="73" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-5" target="xKRhnp7fP2KBttcFIjON-6">
           <mxGeometry relative="1" as="geometry" />
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-5" value="Bon de Commande" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="249" width="120" height="60" as="geometry" />
+          <mxGeometry x="331" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-6" target="xKRhnp7fP2KBttcFIjON-25">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-6" value="Commande" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="249" width="120" height="60" as="geometry" />
+          <mxGeometry x="581" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-7" target="xKRhnp7fP2KBttcFIjON-8">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-7" value="Facture Brouillon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="331" y="364" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-8" target="xKRhnp7fP2KBttcFIjON-9">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-8" value="Facture non&amp;nbsp;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:150%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:FR;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;FR&quot;&gt;Payée&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="331" y="504" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-9" target="xKRhnp7fP2KBttcFIjON-39">
           <mxGeometry relative="1" as="geometry" />
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-9" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:150%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:FR;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;FR&quot;&gt;Paiement&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="581" y="504" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-12" target="xKRhnp7fP2KBttcFIjON-13">
           <mxGeometry relative="1" as="geometry" />
@@ -117,10 +117,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-12" value="Facture Echue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="91" y="504" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-13" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="91" y="674" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-15" target="xKRhnp7fP2KBttcFIjON-13">
           <mxGeometry relative="1" as="geometry" />
@@ -131,10 +131,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-15" value="Facture&amp;nbsp;&lt;span style=&quot;font-size: 12pt; line-height: 24px; font-family: Calibri, sans-serif;&quot; lang=&quot;FR&quot;&gt;Payée&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="331" y="674" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-25" value="Bon de livraison" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="581" y="364" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKRhnp7fP2KBttcFIjON-39" target="xKRhnp7fP2KBttcFIjON-15">
           <mxGeometry relative="1" as="geometry" />
@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xKRhnp7fP2KBttcFIjON-39" value="&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 16px;&quot;&gt;Reçu de paiement&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="581" y="674" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
